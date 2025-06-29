@@ -1,0 +1,15 @@
+# Terraform junk
+.terraform/
+terraform.tfstate
+terraform.tfstate.backup
+*.tfplan
+crash.log
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.tfplan
+.DS_Store
+
+# macOS junk
+.DS_Store
